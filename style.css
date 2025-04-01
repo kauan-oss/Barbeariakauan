@@ -5,5 +5,9 @@
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
+    color: rgb(58, 219, 18);
+}
+
+body{
     color: aquamarine;
 }
