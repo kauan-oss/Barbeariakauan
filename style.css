@@ -4,6 +4,7 @@ body{
     margin: 0px;
     padding: 0px;
     background-color: aquamarine;
+    font-family: sans-serif;
 }
 
 
@@ -19,4 +20,18 @@ body{
     background-color: blueviolet;
     padding: 30px;
     margin: 0px;
+}
+
+.titulo2{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.principal{
+background-color: chocolate;
+padding: 30px;
+}
+
+.beneficios{
+
 }
