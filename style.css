@@ -3,7 +3,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: rgb(172, 216, 201);
+    background-color: rgb(67, 144, 150);
     font-family: sans-serif;
 }
 
@@ -16,8 +16,8 @@ body{
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: rgb(58, 219, 18);
-    background-color: blueviolet;
+    color: rgb(67, 144, 150);
+    background-color: rgb(67, 144, 150);
     padding: 30px;
     margin: 0px;
 }
