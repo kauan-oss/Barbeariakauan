@@ -3,7 +3,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: aquamarine;
+    background-color: rgb(172, 216, 201);
     font-family: sans-serif;
 }
 
@@ -28,13 +28,13 @@ body{
 }
 
 .principal{
-background-color: chocolate;
+background-color: rgb(67, 144, 150);
 padding: 30px;
 margin: 0px;
 }
 
 .beneficios{
-background-color: burlywood;
+background-color: rgb(67, 144, 150);
 padding: 30px;
 margin: 0px;
 }
